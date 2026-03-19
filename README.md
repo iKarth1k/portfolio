@@ -24,6 +24,15 @@ A terminal-themed portfolio designed around clarity and intentional interaction.
 - **Smooth motion design** — Framer Motion-powered transitions, staggered reveals, and typewriter effects
 - **Responsive across devices** — Tested and optimized from desktop to mobile
 
+## Screenshots
+
+<div align="center">
+  <img src="public/site%20images/about.png" alt="About Section" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/skill1.png" alt="Skills Matrix" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/project1.png" alt="Featured Work" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/contact.png" alt="Contact Terminal" width="80%" />
+</div>
+
 ## Tech Stack (Portfolio Site)
 
 | Layer | Technology |
