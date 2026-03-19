@@ -8,7 +8,7 @@ A personal AI Engineering portfolio built with Next.js, React, and Tailwind CSS.
 
 <br />
 
-<img src="public/site%20images/home.png" alt="Portfolio Preview" width="100%" />
+<img src="public/site%20images/Screenshot%20(177).png" alt="Portfolio Preview" width="100%" />
 
 </div>
 
@@ -27,10 +27,10 @@ A terminal-themed portfolio designed around clarity and intentional interaction.
 ## Screenshots
 
 <div align="center">
-  <img src="public/site%20images/about.png" alt="About Section" width="80%" style="margin-bottom: 20px;" />
-  <img src="public/site%20images/skill1.png" alt="Skills Matrix" width="80%" style="margin-bottom: 20px;" />
-  <img src="public/site%20images/project1.png" alt="Featured Work" width="80%" style="margin-bottom: 20px;" />
-  <img src="public/site%20images/contact.png" alt="Contact Terminal" width="80%" />
+  <img src="public/site%20images/Screenshot%20(178).png" alt="About Section" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/Screenshot%20(179).png" alt="Skills Matrix" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/Screenshot%20(181).png" alt="Featured Work" width="80%" style="margin-bottom: 20px;" />
+  <img src="public/site%20images/Screenshot%20(182).png" alt="Contact Terminal" width="80%" />
 </div>
 
 ## Tech Stack (Portfolio Site)
